@@ -5,7 +5,9 @@ This Python project scrapes event data from a specified URL and stores the data 
 ## Files
 
 - `main.py`: Main script to scrape data, process it, and send notifications.
+- `sample_example.py`: Sample script to store, modify or delete data from SQLite DB
 - `data.txt`: Stores the extracted event data.
+- `data.db` : Sotres the extracted event data in SQLite
 
 ## Requirements
 
